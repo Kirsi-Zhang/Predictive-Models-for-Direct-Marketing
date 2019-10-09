@@ -1,4 +1,4 @@
-# **Predictive-Models-for-Direct-Marketing**
+# **Predictive Modeling for Direct Marketing**
 A bank is marketing Certificates of Deposit (CD) to a pool of 1,000 potential customers. The cost of each contact is $10. The NPV to the bank of a customer buying a CD is $50. Clearly, it is not profitable to contact all the potential customers. So, instead the bank employs a predictive model to predict whether or not a potential customer is a likely buyer.
 Our objective is to build a predictive model that maximizes profit for the project. 
 
